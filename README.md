@@ -1,5 +1,3 @@
-Certainly! Here's a README file template for your GitHub repository:
-
 ---
 
 # Naukri.com Web Scraper with Selenium
@@ -42,5 +40,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Special thanks to Naukri.com for providing the job data and Selenium for their powerful web automation tools.
 
 ---
-
-Feel free to customize the README file with additional information or specific instructions related to your project. Let me know if you need further assistance!
